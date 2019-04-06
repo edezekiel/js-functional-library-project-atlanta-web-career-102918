@@ -15,7 +15,7 @@ fi = (function() {
     reduce: function() {
 
     },
-    
+
     functions: function() {
 
     },
@@ -25,3 +25,5 @@ fi = (function() {
 })()
 
 fi.libraryMethod()
+
+//add comments
